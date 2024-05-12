@@ -1,0 +1,239 @@
+# depslib dependency file v1.0
+1682110841 source:d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\buttons.cpp
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+
+1682111300 d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\variables.h
+	"Texture.h"
+	"constant.h"
+	"Buttons.h"
+
+1682111506 d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\texture.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<vector>
+
+1682111423 d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\constant.h
+	<iostream>
+
+1682111186 d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\buttons.h
+	<SDL.h>
+
+1682111381 d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\function1.h
+	"Timer.h"
+	<SDL.h>
+
+1682111265 d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\timer.h
+	<SDL.h>
+
+1683808480 source:d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\function1.cpp
+	"Texture.h"
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+	"Timer.h"
+	<sstream>
+	<fstream>
+
+1682110985 source:d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\main.cpp
+	"Texture.h"
+	"Buttons.h"
+	"Variables.h"
+	"constant.h"
+	"function1.h"
+
+1683807130 source:d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\texture.cpp
+	"Texture.h"
+	"Variables.h"
+
+1682110875 source:d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\timer.cpp
+	"Timer.h"
+
+1682111053 source:d:\dh\ltnc\minesweepersdl2-main\minesweepersdl2-main\ms\variables.cpp
+	"Variables.h"
+	<iostream>
+
+1715358316 source:d:\ueter\ms\buttons.cpp
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+
+1715358316 d:\ueter\ms\variables.h
+	"Texture.h"
+	"constant.h"
+	"Buttons.h"
+
+1715358316 d:\ueter\ms\texture.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<vector>
+
+1715358316 d:\ueter\ms\constant.h
+	<iostream>
+
+1715358316 d:\ueter\ms\buttons.h
+	<SDL.h>
+
+1715358316 d:\ueter\ms\function1.h
+	"Timer.h"
+	<SDL.h>
+
+1715358316 d:\ueter\ms\timer.h
+	<SDL.h>
+
+1715358316 source:d:\ueter\ms\function1.cpp
+	"Texture.h"
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+	"Timer.h"
+	<sstream>
+	<fstream>
+
+1715358316 source:d:\ueter\ms\main.cpp
+	"Texture.h"
+	"Buttons.h"
+	"Variables.h"
+	"constant.h"
+	"function1.h"
+
+1715358316 source:d:\ueter\ms\texture.cpp
+	"Texture.h"
+	"Variables.h"
+
+1715358316 source:d:\ueter\ms\timer.cpp
+	"Timer.h"
+
+1715358316 source:d:\ueter\ms\variables.cpp
+	"Variables.h"
+	<iostream>
+
+1715402144 source:d:\ueter\gamecpp-main\buttons.cpp
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+
+1715414040 d:\ueter\gamecpp-main\variables.h
+	"Texture.h"
+	"constant.h"
+	"Buttons.h"
+
+1715358316 d:\ueter\gamecpp-main\texture.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<vector>
+
+1715414079 d:\ueter\gamecpp-main\constant.h
+	<iostream>
+
+1715414018 d:\ueter\gamecpp-main\buttons.h
+	<SDL.h>
+
+1715414055 d:\ueter\gamecpp-main\function1.h
+	<SDL.h>
+
+1715358316 d:\ueter\gamecpp-main\timer.h
+	<SDL.h>
+
+1715404383 source:d:\ueter\gamecpp-main\function1.cpp
+	"Texture.h"
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+	<sstream>
+	<fstream>
+
+1715395154 source:d:\ueter\gamecpp-main\main.cpp
+	"Texture.h"
+	"Buttons.h"
+	"Variables.h"
+	"constant.h"
+	"function1.h"
+
+1715358316 source:d:\ueter\gamecpp-main\texture.cpp
+	"Texture.h"
+	"Variables.h"
+
+1715358316 source:d:\ueter\gamecpp-main\timer.cpp
+	"Timer.h"
+
+1715402012 source:d:\ueter\gamecpp-main\variables.cpp
+	"Variables.h"
+	<iostream>
+
+1715529508 source:d:\pok\gamecpp-main\buttons.cpp
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+
+1715499115 d:\pok\gamecpp-main\variables.h
+	"Texture.h"
+	"constant.h"
+	"Buttons.h"
+
+1715495955 d:\pok\gamecpp-main\texture.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<vector>
+
+1715414079 d:\pok\gamecpp-main\constant.h
+	<iostream>
+
+1715499848 d:\pok\gamecpp-main\buttons.h
+	<SDL.h>
+
+1715500602 d:\pok\gamecpp-main\function1.h
+	<SDL.h>
+
+1715530200 source:d:\pok\gamecpp-main\function1.cpp
+	"Texture.h"
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function1.h"
+	<sstream>
+	<fstream>
+
+1715500793 source:d:\pok\gamecpp-main\main.cpp
+	"Texture.h"
+	"Buttons.h"
+	"Variables.h"
+	"constant.h"
+	"function1.h"
+
+1715529638 source:d:\pok\gamecpp-main\texture.cpp
+	"Texture.h"
+	"Variables.h"
+
+1715499115 source:d:\pok\gamecpp-main\variables.cpp
+	"Variables.h"
+	<iostream>
+
