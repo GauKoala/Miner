@@ -3,7 +3,7 @@
   
   Phần mềm sử dụng: [CodeBlock]
 # miner
-Trò chơi minesweeper cơ bản.Luật chơi đơn giản: 
+Trò chơi minesweeper cơ bản 
 - Mục tiêu là mở tất cả các ô trống trong bảng mà không ấn vào các ô chứa bom.
 - Mỗi ô trong bảng có thể là một trong ba loại.
 -  Ô trống: không chứa bom, khi mở khiến các ô trống và ô số xung quang mở theo.
