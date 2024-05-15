@@ -1,8 +1,8 @@
-#
+# Giới thiệu:
+- Game dò mìn
+- Viết bằng ngôn ngữ C++, dùng thư viên SDL2
   Ngôn ngữ: C++ - SDL2.
-  
-  Phần mềm sử dụng: [CodeBlock]
-# miner
+# Luật chơi
 Trò chơi minesweeper cơ bản 
 - Mục tiêu là mở tất cả các ô trống trong bảng mà không ấn vào các ô chứa bom.
 - Mỗi ô trong bảng có thể là một trong ba loại.
@@ -13,12 +13,18 @@ Trò chơi minesweeper cơ bản
 -  Người chơi có thể đặt một cờ trên ô mà họ cho rằng chứa bom để đánh dấu.
 -  Trò chơi kết thúc khi người chơi mở tất cả các ô không chứa bom hoặc khi họ mở một ô chứa bom.
 -   Mục tiêu cuối cùng là mở tất cả các ô không chứa bom mà không chạm vào bất kỳ ô nào chứa bom.
-- Có 3 mức độ:
-   + Dễ: Bảng 9 x 9, 10 bom.
-   + Trung bình: Bảng 16 x 16, 40 bom.
-   + Khó: Bảng 30 x 16 , 99 bom.
-- Chuột phải: cắm cờ
-- Chuột trái: mở ô
+# Cách chơi:
+- PLay: Bắt đầu chơi
+- Quit: Thoát game
+- Easy, Medium, Hard: Độ khó
+- Chuột trái: Mở ô
+- Chuột phải: Đánh dấu cờ
+# Sử dụng: 
+- IDE: Code:Blocks 20.3
+- Thư viện: SDL2-2.30.2, SDL2_image-2.8.2, SDL2_ttf-2.22.0, SDL2_mixer-2.8.0
+# Tài liệu tham khảo:
+- https://lazyfoo.net/tutorials/SDL/
+- https://www.youtube.com/watch?v=RmpSnfVZZmI
 
 
 
